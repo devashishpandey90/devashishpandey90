@@ -1,4 +1,3 @@
-```markdown
 <a href="https://github.com/Devashish90">
   <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/>
 </a>
@@ -15,7 +14,7 @@ Building scalable Robotic Process Automation (RPA) solutions using Python, Selen
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 🔹 Python Developer specializing in Robotic Process Automation (RPA)
 
@@ -252,4 +251,3 @@ Building scalable Robotic Process Automation (RPA) solutions using Python, Selen
 <h3 align="center">
 ⭐ Building Intelligent Automation & AI-Powered Solutions with Python ⭐
 </h3>
-```
