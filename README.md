@@ -1,3 +1,4 @@
+```markdown
 <a href="https://github.com/Devashish90">
   <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/>
 </a>
@@ -5,30 +6,30 @@
 <h1 align="center">Hi 👋, I'm Devashish Pandey</h1>
 
 <h3 align="center">
-🚀 Data Science Intern | Python Developer | Automation Engineer | Machine Learning Enthusiast
+🚀 Python Developer | RPA Engineer | Automation Specialist | AI Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent automation solutions and AI-powered applications using Python & Machine Learning
+Building scalable Robotic Process Automation (RPA) solutions using Python, Selenium, AWS, SQL and AI Technologies
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔹 Data Science Intern with hands-on experience in **Python Automation, Data Processing & Machine Learning**
+🔹 Python Developer specializing in Robotic Process Automation (RPA)
 
-🔹 Currently working at **Applied Energy Technologies Pvt. Ltd.**
+🔹 Currently working as Python Intern (AI Automation) at Applied Energy Technologies Pvt. Ltd.
 
-🔹 Expertise in **Python, SQL, Selenium Automation, Data Analysis & Machine Learning**
+🔹 Experienced in developing large-scale automation solutions for utility and telecom business processes
 
-🔹 Experience in **Automation, Data Science, Web Scraping & Drone Technologies**
+🔹 Skilled in Python, Selenium WebDriver, SQL, AWS S3, Data Processing & Workflow Automation
 
-🔹 Strong background in **Data Preprocessing, Feature Engineering & Predictive Analytics**
+🔹 Hands-on experience with Pandas, NumPy, Requests, BeautifulSoup, pdfplumber and Apache Tika
 
-🔹 Passionate about solving real-world problems using AI, ML, and Automation
+🔹 Strong understanding of Automation Frameworks, Data Validation and Exception Handling
 
-🔹 Currently exploring **Generative AI, NLP & Advanced Machine Learning**
+🔹 Passionate about Artificial Intelligence, Process Automation and Scalable Software Solutions
 
 📍 Uttar Pradesh, India
 
@@ -40,6 +41,14 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 
 ---
 
+## 📄 Resume
+
+📥 **Download Resume**
+
+[Click Here](https://github.com/Devashish90/Resume/raw/main/Devashish_pandey_RPA.pdf)
+
+---
+
 ## 🚀 Tech Stack
 
 ### Programming Languages
@@ -48,27 +57,24 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-### Data Science & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Feature Engineering
-- Predictive Modeling
-
 ### Automation & RPA
 
 - Selenium WebDriver
-- Web Scraping
 - Process Automation
+- Web Scraping
 - Data Extraction
+- RPA Development
+- Automation Framework Design
+
+### Data Processing
+
+- Pandas
+- NumPy
+- Requests
+- BeautifulSoup
+- pdfplumber
+- Apache Tika
+- Regular Expressions
 
 ### Database
 
@@ -77,6 +83,12 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 </p>
 
 - SQL
+- Stored Procedures
+
+### Cloud & AI
+
+- AWS S3
+- OpenAI API
 
 ### Tools
 
@@ -92,58 +104,72 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 ## 💼 Professional Experience
 
 ### 🚀 Applied Energy Technologies Pvt. Ltd.
-**Data Science Intern (Automation & Data Processing)** | Mar 2026 – Present
 
-🔹 Developed Python automation scripts using Selenium for extracting and processing web data
+**Python Intern (AI Automation)** | Mar 2026 – Present
 
-🔹 Automated repetitive business processes and improved workflow efficiency
+🔹 Developed Python-based Robotic Process Automation (RPA) solutions for utility and telecom workflows
 
-🔹 Optimized data processing pipelines reducing manual effort
+🔹 Built Selenium automation scripts for login automation, data extraction and bill processing
 
-🔹 Worked on real-time data collection and validation systems
+🔹 Utilized Pandas and NumPy for data manipulation and workflow optimization
+
+🔹 Integrated AWS S3 for centralized storage and management of automation outputs
+
+🔹 Implemented logging, validation and exception handling mechanisms
+
+🔹 Worked with SQL databases and stored procedures
+
+🔹 Improved automation stability and operational efficiency
 
 ---
 
 ### 🚁 Cerebrospark Innovations Pvt. Ltd.
-**Drone Development Intern** | Jul 2025 – Sep 2025
 
-🔹 Developed drone-based technologies for disaster management and surveillance
+**Drone Development Intern** | Sep 2025 – Nov 2025
 
-🔹 Enabled RF-based real-time communication and monitoring
+🔹 Developed Python scripts for drone operations and data processing
 
-🔹 Improved reliability and performance in emergency response scenarios
+🔹 Contributed to surveillance and disaster response systems
 
-🔹 Automated sensor-based data collection systems
+🔹 Integrated sensors and communication modules
+
+🔹 Performed testing, debugging and optimization
+
+🔹 Enhanced real-time monitoring capabilities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Data Science Market Insights & Salary Prediction Model
+### ⚡ Electricity Bill Automation System (RPA)
 
-**Tools:** Python, Pandas, NumPy, Scikit-Learn
+**Tech Stack:** Python, Selenium, Pandas, NumPy, AWS S3, SQL
 
-🔹 Performed EDA on 600+ real-world job postings
+🔹 Developed an end-to-end RPA solution for electricity bill processing
 
-🔹 Identified hiring trends, salary patterns, and key demand areas
+🔹 Automated login, bill verification and PDF downloading across multiple DISCOM portals
 
-🔹 Built Random Forest ML model achieving **75% accuracy**
+🔹 Integrated AWS S3 cloud storage for document management
 
-🔹 Applied feature engineering and preprocessing techniques
+🔹 Implemented validation, logging and exception handling
+
+🔹 Optimized execution efficiency through session management
+
+🔹 Built scalable reusable automation components
 
 ---
 
-### 🚁 Drone Development for Disaster Management
+### 🚁 Drone Surveillance & Monitoring System
 
-**Tools:** Python, RF Modules
+**Tech Stack:** Python, OpenCV, Sensor Integration
 
-🔹 Designed and developed disaster monitoring drone modules
+🔹 Developed drone monitoring and automation solutions
 
-🔹 Enabled remote monitoring through RF communication
+🔹 Enabled real-time data acquisition and communication
 
-🔹 Automated data transmission and processing
+🔹 Improved operational reliability through data processing workflows
 
-🔹 Improved emergency response capabilities
+🔹 Enhanced surveillance and disaster response capabilities
 
 ---
 
@@ -157,21 +183,22 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 
 ## 🏆 Key Achievements
 
-🏅 Built ML model achieving **75% prediction accuracy**
+🏅 Developed enterprise-level RPA automation solutions
 
-🏅 Analyzed **600+ real-world job records**
+🏅 Automated utility business workflows using Python & Selenium
 
-🏅 Automated web data extraction workflows using Selenium
+🏅 Integrated AWS cloud storage with automation pipelines
 
-🏅 Developed disaster monitoring drone systems
+🏅 Built scalable and reusable automation components
 
-🏅 Strong foundation in AI, Machine Learning & Automation
+🏅 Strong foundation in AI, Automation & Data Processing
 
 ---
 
 ## 🎓 Education
 
 ### Amity University, Gwalior
+
 **B.Tech – Computer Science & Engineering**
 
 📅 2021 – 2025
@@ -206,6 +233,10 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 ---
@@ -221,3 +252,4 @@ Building intelligent automation solutions and AI-powered applications using Pyth
 <h3 align="center">
 ⭐ Building Intelligent Automation & AI-Powered Solutions with Python ⭐
 </h3>
+```
